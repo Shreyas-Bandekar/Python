@@ -28,7 +28,7 @@ Classic terminal-based game using basic conditionals and user input.
 ---
 
 ### 🤖 Robot Speaker
-Text-to-speech project using Python's `pyttsx3` library to create a simple speaking assistant.
+Text-to-speech project using Python simple speaking assistant.
 
 > **File:** `robot.py`
 
