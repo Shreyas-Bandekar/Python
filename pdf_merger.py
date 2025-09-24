@@ -8,4 +8,5 @@ for filename in pdf_files:
         merger.append(f)
 
 merger.write('merged.pdf')
+
 merger.close()
