@@ -40,11 +40,3 @@ Text-to-speech project using Python simple speaking assistant.
 - Standard Libraries: `random`, `os`
 - External Libraries: `PyPDF2`
 
----
-
-## 🚀 Getting Started
-
-1. Clone the repo:
-```bash
-git clone https://github.com/Shreyas-Bandekar/Python.git
-
