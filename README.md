@@ -39,4 +39,3 @@ Text-to-speech project using Python simple speaking assistant.
 - Python 3.x
 - Standard Libraries: `random`, `os`
 - External Libraries: `PyPDF2`
-
